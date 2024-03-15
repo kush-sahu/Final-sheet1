@@ -1,0 +1,67 @@
+
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+
+
+.card{
+
+  padding: auto;
+  width: 80%;
+  height: 50%;
+  background-color: rgb(89, 169, 169);
+  margin:  10px 10%;
+  border: 2px solid white;
+  overflow: auto;
+  color: rgb(225, 225, 225);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.container-App1{
+  margin: auto;
+  width: 80vw;
+  height: 50px;
+ 
+}
+.flex{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+}
+.Topic{
+  width: 20%;
+  margin-left:15px ;
+}
+.problemname-App1{
+  width: 60%;
+  
+}
+.topic-heading-App1{
+  text-align: center;
+  cursor: pointer;
+  height: 50px;
+  background-color: rgb(10, 147, 168);
+  font-size: 25px;
+  padding: 15px;
+  border-radius: 20px;
+  color: white;
+  
+}
+.insideTopic-App1{
+  padding: auto;
+  
+}
+.gfgimage{
+  width: 50px;
+height: 30px;
+cursor: pointer;
+border-radius: 7px;
+margin-left: 8px;
+margin-right: 8px;
+}
+.gfgimage1{
+  width: 60px;
+height: 30px;
+cursor: pointer;
+border-radius: 7px ;
+border-color: aliceblue;
+margin-left: 8px;
+}
